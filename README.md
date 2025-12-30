@@ -87,24 +87,11 @@ Replace the theme parameter with custom colors:
 
 <div align="center">
   
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=espressodrivendevelopment&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
   
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=espressodrivendevelopment&theme=tokyo-night&hide_border=false&area=true" alt="Contribution Graph"/>
-  
-</div>
 
-</details>
 
----
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=espressodrivendevelopment&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies"/>
-</div>
 
----
 
 ### 📂 Featured Projects
 * 🐍 **Python Automation Tool** - Streamlining workflows with intelligent automation
