@@ -1,7 +1,7 @@
 <!-- LinkedIn-style Header Banner -->
 <div align="center">
   <!-- Using your custom uploaded banner -->
-  <img src="banner.png" alt="Header Banner" width="100%"/>
+  <img src=""C:\Users\shara\Downloads\Sharanya Ghosh ln.png"" alt="Header Banner" width="100%"/>
   
   <!-- Option: Animated Dynamic Banner (comment out the line above and uncomment this to switch) -->
   <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Sharanya%20Ghosh&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=20" alt="header"/> -->
@@ -10,7 +10,7 @@
 <!-- Profile Picture Section -->
 <!-- Using custom uploaded profile picture instead of GitHub avatar -->
 <div align="center">
-  <img src="profile.jpeg" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; border: 5px solid #0077B5; margin-top: -75px; background: white; padding: 5px;"/>
+  <img src=""C:\Users\shara\Downloads\Linktree pfp.jpeg"" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; border: 5px solid #0077B5; margin-top: -75px; background: white; padding: 5px;"/>
   
   <h1>Sharanya Ghosh</h1>
   <p><em>create. curate. caffeinate 🍵</em></p>
