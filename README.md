@@ -10,7 +10,7 @@
 <!-- Profile Picture Section -->
 <!-- Using custom uploaded profile picture instead of GitHub avatar -->
 <div align="center">
-  <img src="" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; border: 5px solid #0077B5; margin-top: -75px; background: white; padding: 5px;"/>
+  <img src="https://github.com/espressodrivendevelopment/espressodrivendevelopment/blob/main/Linktree%20pfp.jpeg" alt="Profile Picture" width="150" height="150" style="border-radius: 50%; border: 5px solid #0077B5; margin-top: -75px; background: white; padding: 5px;"/>
   
   <h1>Sharanya Ghosh</h1>
   <p><em>create. curate. caffeinate 🍵</em></p>
