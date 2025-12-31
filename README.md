@@ -32,25 +32,19 @@ I am a developer specializing in Python, C, and Web Technologies. I enjoy solvin
 | **Tools** | ![Git](https://img.shields.io/badge/git-0077B5?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/vscode-0077B5?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
 ### 📂 Featured Projects
+| Project | Highlights | Stack |
+| :--- | :--- | :--- |
+| **Portfolio** | Minimalist landing page designed via **V0**. | `V0` `Vercel` |
+| **Document Enhancer** | Post-Hackathon evolution; refined UI/UX. | `React` `TS` |
+| **PyCalc** | Lightweight terminal-based logic engine. | `Python` |
 
-#### [My list of projects of 2025]
-* 1.v0-social-links-portfolio
-🌐 Minimalist Link Hub | V0 Generative Design Description: A high-fidelity professional landing page designed to centralize social connectivity and coding profiles.
-Architecture: Developed using TypeScript and React for robust type safety.
-Design: UI/UX architected with V0 by Vercel, focusing on a clean, light-themed aesthetic.
-Purpose: Serves as a primary gateway for recruiters to access LinkedIn, LeetCode, and social platforms.
+---
 
-2.document-formatter-web-app
-📄 SmartDoc Enhancer: Post-Hackathon Evolution Description: A sophisticated web utility that transforms raw text into structured, professionally formatted documents.
-Growth Story: Originally conceptualized for the MCKV Hackathon, this version features a complete UI overhaul using V0 by Vercel to address previous design limitations.
-Technology: Built with TypeScript for reliable text-processing logic and hosted on Vercel for high-speed delivery.
-Core Feature: Automated indentation, typography cleaning, and document structuring.
-
-3.simple-python-calculator
-Title: 🧮 PyCalc: Lightweight Logic Engine Description: A clean and efficient terminal-based calculator built to demonstrate core Python principles.
-Functionality: Handles arithmetic operations with error handling for edge cases (like division by zero).
-Educational Goal: Focuses on clean code structure, modular functions, and user-input validation.
-Stack: Pure Python 3, showcasing fundamental programming logic and readable syntax*
+### 📊 GitHub Stats
+<p align="left">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&title_color=0077B5&icon_color=0077B5&text_color=444444&bg_color=ffffff&border_color=0077B5" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&title_color=0077B5&icon_color=0077B5&text_color=444444&bg_color=ffffff&border_color=0077B5" />
+</p>
 
 * **Stack:** ![TypeScript](https://img.shields.io/badge/TypeScript-0077B5?style=flat-square&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
