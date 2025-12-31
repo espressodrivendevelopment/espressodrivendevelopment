@@ -42,11 +42,9 @@ I am a developer specializing in Python, C, and Web Technologies. I enjoy solvin
 
 ---
 
-### 📊 GitHub Stats
-<p align="left">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=espressodrivendevelopment&show_icons=true&title_color=0077B5&icon_color=0077B5&text_color=444444&bg_color=ffffff&border_color=0077B5" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=espressodrivendevelopment&layout=compact&title_color=0077B5&icon_color=0077B5&text_color=444444&bg_color=ffffff&border_color=0077B5" />
-</p>
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=espressodrivendevelopmentE&show_icons=true&title_color=0077B5&icon_color=0077B5&text_color=444444&bg_color=ffffff&border_color=0077B5)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=espressodrivendevelopment&layout=compact&title_color=0077B5&icon_color=0077B5&text_color=444444&bg_color=ffffff&border_color=0077B5)
 
 ---
 
