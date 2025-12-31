@@ -31,7 +31,7 @@ I am a developer specializing in Python, C, and Web Technologies. I enjoy solvin
 | **Frontend** | ![React](https://img.shields.io/badge/react-0077B5?style=flat-square&logo=react&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-0077B5?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-0077B5?style=flat-square&logo=css3&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/git-0077B5?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/vscode-0077B5?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
-### 📂 Featured Projects
+### 📂 Featured Projects of 2025
 | Project | Highlights | Stack |
 | :--- | :--- | :--- |
 | **Portfolio** | Minimalist landing page designed via **V0**. | `V0` `Vercel` |
@@ -39,14 +39,6 @@ I am a developer specializing in Python, C, and Web Technologies. I enjoy solvin
 | **PyCalc** | Lightweight terminal-based logic engine. | `Python` |
 
 ---
-
-### 📊 GitHub Stats
-<p align="left">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&title_color=0077B5&icon_color=0077B5&text_color=444444&bg_color=ffffff&border_color=0077B5" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&title_color=0077B5&icon_color=0077B5&text_color=444444&bg_color=ffffff&border_color=0077B5" />
-</p>
-
-* **Stack:** ![TypeScript](https://img.shields.io/badge/TypeScript-0077B5?style=flat-square&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ---
 
