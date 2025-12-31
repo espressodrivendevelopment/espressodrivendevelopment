@@ -44,6 +44,16 @@ I am a developer specializing in Python, C, and Web Technologies. I enjoy solvin
 
 ---
 
+### 📊 Coding Activity & Stats
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&title_color=0077B5&icon_color=0077B5&text_color=444444&bg_color=ffffff&border_color=0077B5" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=default&fire=0077B5&ring=0077B5&sideNums=444444&currStreakNum=0077B5&sideLabels=444444&dates=444444&bg=ffffff&stroke=0077B5&hide_border=false" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&title_color=0077B5&icon_color=0077B5&text_color=444444&bg_color=ffffff&border_color=0077B5" />
+
+---
+
 ### 💡 Current Focus
 - 🔭 Working on full-stack web applications
 - 🌱 Learning advanced data structures and algorithms
