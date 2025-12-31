@@ -40,8 +40,13 @@ I am a developer specializing in Python, C, and Web Technologies. I enjoy solvin
 | **Document Enhancer** | Post-Hackathon evolution; refined UI/UX. | `React` `TS` |
 | **PyCalc** | Lightweight terminal-based logic engine. | `Python` |
 
+---
 
-
+📊 GitHub Stats
+<p align="left">
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&title_color=0077B5&icon_color=0077B5&text_color=444444&bg_color=ffffff&border_color=0077B5" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&title_color=0077B5&icon_color=0077B5&text_color=444444&bg_color=ffffff&border_color=0077B5" />
+</p>
 
 ---
 
