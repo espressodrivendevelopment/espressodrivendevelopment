@@ -36,7 +36,7 @@ I am a developer specializing in Python, C, and Web Technologies. I enjoy solvin
 ### 📂 Featured Projects of 2025
 | Project | Highlights | Stack |
 | :--- | :--- | :--- |
-| **Portfolio** | Minimalist landing page.UI/UX designed via **V0**. | `Vercel` |
+| **Portfolio** | Minimalist landing page; UI/UX designed via **V0**. | `Vercel` |
 | **Document Enhancer** | Post-Hackathon evolution; refined UI/UX. | `React` `TS` |
 | **PyCalc** | Lightweight terminal-based logic engine. | `Python` |
 
