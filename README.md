@@ -31,6 +31,8 @@ I am a developer specializing in Python, C, and Web Technologies. I enjoy solvin
 | **Frontend** | ![React](https://img.shields.io/badge/react-0077B5?style=flat-square&logo=react&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-0077B5?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-0077B5?style=flat-square&logo=css3&logoColor=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/git-0077B5?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/vscode-0077B5?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
+---
+
 ### 📂 Featured Projects of 2025
 | Project | Highlights | Stack |
 | :--- | :--- | :--- |
@@ -38,7 +40,7 @@ I am a developer specializing in Python, C, and Web Technologies. I enjoy solvin
 | **Document Enhancer** | Post-Hackathon evolution; refined UI/UX. | `React` `TS` |
 | **PyCalc** | Lightweight terminal-based logic engine. | `Python` |
 
----
+
 
 ---
 
