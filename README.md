@@ -29,6 +29,9 @@ I am a developer specializing in Python, C, and Web Technologies. I enjoy solvin
 
 ---
 
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=espressodrivendevelopment&theme=default&hide_border=false)<br/>
+
+---
 ### 📂 Featured Projects of 2025
 | Project | Highlights | Stack |
 | :--- | :--- | :--- |
