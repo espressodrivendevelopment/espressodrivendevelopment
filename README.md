@@ -1,7 +1,7 @@
 <!-- LinkedIn-style Header Banner -->
 <div align="center">
   <!-- Using your custom uploaded banner -->
-  <img src="https://github.com/espressodrivendevelopment/espressodrivendevelopment/blob/main/Sharanya%20Ghosh%20ln.png" alt="Header Banner" width="100%"/>
+  <img src="https://github.com/espressodrivendevelopment/espressodrivendevelopment/blob/main/GIT%20Header.png" alt="Header Banner" width="100%"/>
   
   <!-- Option: Animated Dynamic Banner (comment out the line above and uncomment this to switch) -->
   <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=250&section=header&text=Sharanya%20Ghosh&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=55&descSize=20" alt="header"/> -->
