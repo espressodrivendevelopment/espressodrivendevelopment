@@ -28,7 +28,7 @@ I am a developer specializing in Python, C, and Web Technologies. I enjoy solvin
 | **Tools** | ![Git](https://img.shields.io/badge/git-0077B5?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/vscode-0077B5?style=flat-square&logo=visualstudiocode&logoColor=white) |
 
 ---
-
+### 📊 GitHub Stats
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=espressodrivendevelopment&theme=default&hide_border=false)<br/>
 
 ---
