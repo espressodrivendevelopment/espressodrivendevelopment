@@ -20,12 +20,23 @@ I am a developer specializing in Python, C, and Web Technologies. I enjoy solvin
 
 ---
 
-### 🛠 Tech Stack
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-0077B5?style=flat-square&logo=python&logoColor=white) ![C](https://img.shields.io/badge/c-0077B5?style=flat-square&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-0077B5?style=flat-square&logo=javascript&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/react-0077B5?style=flat-square&logo=react&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-0077B5?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-0077B5?style=flat-square&logo=css3&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/git-0077B5?style=flat-square&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/vscode-0077B5?style=flat-square&logo=visualstudiocode&logoColor=white) |
+### 🛠️ Technical Skills & Tools
+
+### 💻 Programming & Web Development
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+---
+### 🎨 Design & AI Prototyping
+![v0](https://img.shields.io/badge/v0_by_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe Express](https://img.shields.io/badge/Adobe_Express-%23000000.svg?style=for-the-badge&logo=adobe-express&logoColor=white)
 
 ---
 ### 📊 GitHub Stats
