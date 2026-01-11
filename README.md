@@ -16,7 +16,7 @@
 ---
 
 ### 🚀 About Me
-I am a developer specializing in Python, C, and Web Technologies. I enjoy solving complex problems and building clean, user-friendly interfaces. Always learning, always coding! ☕
+I am a developer specialising in Python, C, and Web Technologies. I enjoy solving complex problems and building clean, user-friendly interfaces. Always learning, always coding! ☕
 #### 📄 Professional Documents
 [![My Resume](https://img.shields.io/badge/My_Resume-Download%20&%20View-FF5733?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=C70039)](./My%20Resume.pdf)
 
@@ -24,7 +24,7 @@ I am a developer specializing in Python, C, and Web Technologies. I enjoy solvin
 
 ### 🛠️ Technical Skills & Tools
 
-### 💻 Programming & Web Development
+#### 💻 Programming & Web Development
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -33,8 +33,7 @@ I am a developer specializing in Python, C, and Web Technologies. I enjoy solvin
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
----
-### 🎨 Design & AI Prototyping
+#### 🎨 Design & AI Prototyping
 ![v0](https://img.shields.io/badge/v0_by_Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
