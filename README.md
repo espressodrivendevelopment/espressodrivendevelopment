@@ -65,10 +65,6 @@ I am a developer specializing in Python, C, and Web Technologies. I enjoy solvin
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=espressodrivendevelopment&color=0077B5&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+
   
-  <p><em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em></p>
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" alt="footer"/>
-</div>
