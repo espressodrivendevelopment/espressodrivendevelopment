@@ -38,6 +38,7 @@ I am a developer specialising in Python, C, and Web Technologies. I enjoy solvin
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe Express](https://img.shields.io/badge/Adobe_Express-%23000000.svg?style=for-the-badge&logo=adobe-express&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logo=Cursor&logoColor=white)
 
 ---
 ### 📊 GitHub Stats
