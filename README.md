@@ -18,7 +18,7 @@
 ### 🚀 About Me
 I am a developer specialising in Python, C, and Web Technologies. I enjoy solving complex problems and building clean, user-friendly interfaces. Always learning, always coding! ☕
 #### 📄 Professional Documents
-[![My Resume](https://img.shields.io/badge/My_Resume-Download%20&%20View-FF5733?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=C70039)](My Resume.pdf)
+[![My Resume](https://img.shields.io/badge/My_Resume-Download%20&%20View-FF5733?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=C70039)](.My%20Resume.pdf)
 
 ---
 
