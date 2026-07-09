@@ -10,9 +10,7 @@
 
   <h1>Sharanya Ghosh</h1>
   <p><em>create. curate. caffeinate 🍵</em></p>
-  <p>👋 Welcome to my GitHub Profile!</p>
-</div>
-
+ 
 ---
 
 ### 🚀 About Me
